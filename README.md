@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/117115544/236944922-2ab8a566-1c8b-4014-a275-7c055cd8626b.png" alt="About Me" width="100%"/>
+<h2> Hi there 👋, I'm Ignacio </h2>
 
-<!--
-**Alejuda/Alejuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4><i>Full-Stack web developer waiting for my next challenge.</i><img src="https://media.giphy.com/media/TGR2xO6HopOhraWYDo/giphy.gif" width="100"></h4>
 
-Here are some ideas to get you started:
+```javascript
+const aboutMe = {
+  lookingFor: "Front-end/Back-end developer" || "Full-stack web developer",
+  stack: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Bootstrap, 
+  Tailwind],
+  background: ['Industrial Engineering degree', 'Awesome comunication skills'],
+  lastProject: 'React weather app fetching data from an API',
+  reachMe: 'nachofino98@gmail.com'
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
