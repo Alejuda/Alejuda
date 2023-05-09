@@ -11,7 +11,8 @@ const aboutMe = {
   stack: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Bootstrap, 
   Tailwind],
   background: ['Industrial Engineering degree', 'Awesome comunication skills'],
-  lastProject: 'weather app that pulls from the OpenWeather API to allow users to search for the forecast in any city. Built with React.',
+  lastProject: 'weather app that pulls from the OpenWeather API to allow users to 
+  search for the forecast in any city. Built with React.',
   reachMe: 'nachofino98@gmail.com'
 }
 
