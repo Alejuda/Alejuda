@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
   lookingFor: "Front-end/Back-end developer" || "Full-stack web developer",
-  stack: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Bootstrap, 
+  stack: [JavaScript, React, Redux, Ruby on Rails, PostgreSQL, HTML/CSS, Bootstrap, 
   Tailwind],
   background: ['Industrial Engineering degree', 'Awesome comunication skills'],
   lastProject: 'weather app that pulls from the OpenWeather API to allow users to 
